@@ -35,7 +35,7 @@ Kesimpulan: Insertion sort sedikit lebih efisien daripada bubble sort dalam aver
 
 Kesimpulan :
 
-     Bubble sort memiliki kinerja yang buruk dalam segala kasus (worst case, best case, dan average case) karena selalu memiliki kompleksitas waktu O(n^2).
+ Bubble sort memiliki kinerja yang buruk dalam segala kasus (worst case, best case, dan average case) karena selalu memiliki kompleksitas waktu O(n^2).
 Insertion sort lebih efisien dalam best case dan average case dibandingkan bubble sort, tetapi tetap memiliki kompleksitas waktu O(n^2).
 Dalam situasi nyata, ketika berurusan dengan jumlah data yang besar, algoritma sorting dengan kompleksitas waktu O(n^2) seperti bubble sort dan insertion sort mungkin tidak efisien.
 Untuk jumlah data yang besar, algoritma sorting dengan kompleksitas waktu lebih baik seperti quicksort, mergesort, atau heapsort umumnya lebih disarankan.
